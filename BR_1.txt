@@ -1,0 +1,15 @@
+ID - 503
+Severity - Trivial
+Environment- Samsung S20+ (Android 13 Chrome 11 ), Big Sur 11.7.7
+Title- The texts "Trusted partner", "Powered by", "Group’s Parent Entity is audited by" at block "Partners" in Footer  is not translated into any languages except EN
+Steps:
+     1. Navigate to capital.com
+     2. Selected language DE,RU.
+     3. Hover over the menu section [More]
+     4. Click on menu item  [Capital System status]
+     5. Scroll to Tile  "Mobile App,Web....".
+
+Expected Result- The tile "Mobile application, web...." translated into the selected language.
+Actual Result- The name "Mobile application, web...."  not been translated into the selected language.
+Comments- The bug is also reproduced for the mobile.
+Attachment- https://drive.google.com/julia/...
